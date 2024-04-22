@@ -9,3 +9,5 @@ print (f"W sumie kupuję {len(dict['warzywniak']) + len(dict['piekarnia'])} prod
 
 print ("dowolna zmiana1")
 print ("dowolna zmiana2")
+
+print ("pozdrowionka i smacznej kawusi")
