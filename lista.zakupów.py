@@ -8,3 +8,4 @@ print(f"Idę do Piekarnia, kupuję tu następujące rzeczy: {', '.join([item.cap
 print (f"W sumie kupuję {len(dict['warzywniak']) + len(dict['piekarnia'])} produktów")
 
 print ("dowolna zmiana1")
+print ("dowolna zmiana2")
